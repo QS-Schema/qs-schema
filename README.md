@@ -10,10 +10,13 @@ We propose a standardized quantified self data schema. One that is flexible, int
 * [Schema.org](https://schema.org/docs/full.html)
 
 ## Open Questions
-* How do we handle time?
-* How do we collaborate, work together and make decisions?
-* How do we deal with adding new types of data to the standard?
-* How do we allow for flexibility if the standard doesn’t include a data type that you wish to use?
+
+> [see all](https://github.com/QS-Schema/qs-schema/issues?q=is%3Aopen+is%3Aissue+label%3Aquestion)
+
+* [How do we handle time?](https://github.com/QS-Schema/qs-schema/issues/1)
+* [How do we collaborate, work together and make decisions?](https://github.com/QS-Schema/qs-schema/issues/2)
+* [How do we deal with adding new types of data to the standard?](https://github.com/QS-Schema/qs-schema/issues/3)
+* [How do we allow for flexibility if the standard doesn’t include a data type that you wish to use?](https://github.com/QS-Schema/qs-schema/issues/4)
 
 ## Proposals
 
